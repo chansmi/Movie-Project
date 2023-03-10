@@ -1,0 +1,105 @@
+#db-nav-sns {
+    position: relative;
+    zoom: 1;
+    background: #edf4ed;
+}
+
+.nav {
+    width: 100%;
+    min-width: 1040px;
+    overflow: hidden;
+    zoom: 1;
+    margin-bottom: 50px;
+}
+
+.nav .nav-wrap {
+    border-bottom: 1px solid #e5ebe4;
+}
+
+#db-nav-sns .nav-wrap {
+    border: none;
+}
+
+#db-nav-sns .nav-primary {
+    overflow: hidden;
+    padding-top: 12px;
+    zoom: 1;
+}
+
+#db-nav-sns .nav-logo {
+    width: 184px;
+    height: 57px;
+    background-position: 0 10px;
+}
+
+.nav .nav-logo {
+    float: left;
+    height: 56px;
+    width: 145px;
+    margin: 0 13px 0 0;
+    background-repeat: no-repeat;
+    background-position: 0px 12px;
+    background-size: 153px 30px;
+}
+
+#content {
+    min-height: 50px;
+}
+
+#wrapper {
+    width: 1040px;
+}
+
+.grid-16-8 .article {
+    width: 675px;
+    float: left;
+    padding: 0;
+}
+
+.clearfix {
+    display: block;
+    zoom: 1;
+
+}
+
+.mod {
+    width: auto;
+    border: none;
+    border-top: 1px dashed #E8E8E8;
+    padding: 0;
+    margin-top: 10px;
+    box-shadow: none;
+    word-wrap: break-word;
+    word-break: normal;
+    margin-bottom: 20px;
+    background: #FFFFFF;
+    color: #666;
+}
+
+.mod dl {
+    padding: 20px 0;
+    margin: 0;
+    border-bottom: 1px dashed #E8E8E8;
+    overflow: hidden;
+}
+
+dl {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a:link {
+    color: #37a;
+    text-decoration: none;
+}
+
+.mod .title {
+    font-size: 14px;
+}
+
+.mod .meta {
+    color: #bababa;
+}
